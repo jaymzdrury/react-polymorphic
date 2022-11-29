@@ -8,7 +8,7 @@ function App() {
       <Component as='div'>Hello</Component>
       <Component as='h1'>Hello</Component>
       <Component as='h6'>Hello</Component>
-      <Component as='a' href='https://jamesdrury.vercel.app/'>Hello</Component>
+      <Component as='a' href='https://jamesdrury.app/'>Hello</Component>
     </Fragment>
   );
 }
